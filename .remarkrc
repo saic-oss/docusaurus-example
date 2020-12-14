@@ -1,7 +1,7 @@
 {
   "plugins": [
+    "remark-mdx",
     "remark-frontmatter",
-    "remark-lint-file-extension",
     "remark-lint-no-file-name-mixed-case",
     "remark-lint-no-file-name-articles",
     "remark-lint-no-file-name-irregular-characters",
